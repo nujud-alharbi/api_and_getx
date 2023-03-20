@@ -11,7 +11,7 @@ This document describes how you can use the functions in the authentication temp
 
 1)Sign up by email & password
 |     User sign up by email & password:     |
-|:------:|:------:|
+|:-----------------------------------------:|
 
 
 
